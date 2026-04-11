@@ -40,4 +40,4 @@ The attacker's goal was to lure the user to a fraudulent Microsoft login page to
 1. **Immediate Deletion:** Remove the malicious email from the user's inbox.
 2. **Domain Blocking:** Block the sender domain at the organizational gateway.
 3. **URL Reporting:** Report the malicious TinyURL to the service provider's abuse team for takedown.
-4. 
+   
