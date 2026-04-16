@@ -3,7 +3,6 @@
 ## Objective
 Conducted a technical investigation of a suspicious "Microsoft" security alert to identify potential threats and determine the legitimacy of communication.
 
----
 
 ## Methodology & Key Findings
 
@@ -29,7 +28,6 @@ Conducted a technical investigation of a suspicious "Microsoft" security alert t
 #### VirusTotal Analysis
 ![VirusTotal Scan](virustotal_url_result.jpg)
 
----
 
 ## Lessons Learned & Prevention Strategies
 
@@ -42,7 +40,6 @@ The attack utilized high-pressure social engineering ("24-hour deadline"). This 
 ### 3. Verification of "Official" Domains
 Always cross-reference the sender with known official documentation. Microsoft explicitly lists their alert domains; any deviation (like a bookstore in Spain) should be treated as high-risk by default.
 
----
 
 ## Conclusion & Recommendations
 **Classification:** `Confirmed Phishing Incident (Credential Harvesting)`
